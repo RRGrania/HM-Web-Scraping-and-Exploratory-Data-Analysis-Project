@@ -1,15 +1,29 @@
-# web-scraping-cleaning-fashion-
-H&amp;M Web Scraping &amp; Data Analysis Project 
-📌 Overview In this project, we performed web scraping on the H&M website using Selenium to collect all available categories. After extracting the data, we will proceed with data cleaning, exploratory data analysis (EDA), and visualization to uncover key insights and trends.
-Technologies Used
-Python
-Selenium (for web scraping)
-Pandas (for data cleaning and manipulation)
-Matplotlib / Seaborn (for data visualization)
-Data Collection
-Extracted product categories from the H&M website.
-Stored the scraped data in structured CSV/JSON format.
-📊 Next Steps
-✔️ Data Cleaning: Handling missing values, duplicates, and formatting inconsistencies.
-✔️ Exploratory Data Analysis (EDA): Understanding patterns, distributions, and relationships in the data.
-✔️ Visualization: Creating meaningful charts to represent trends and insights.
+# Web Scraping Project
+
+## Overview
+This project involves web scraping and data preparation. The goal is to extract valuable insights from collected data.
+
+## Project Phases
+### 1. Web Scraping
+- Collected at least 2000 records from the target source.
+- Used automated scripts to extract structured data.
+- Saved data in a structured format (CSV, JSON, etc.).
+
+### 2. Data Exploration and Cleaning (Completed)
+- Explored the data using `head()` and `info()`.
+- Checked the number of null values in each feature.
+- Identified and removed duplicate rows.
+- Dropped columns with excessive null values to improve data quality.
+
+### 3. Data Preparation and Visualization
+- Processed data for better usability in analysis.
+- Applied transformations where necessary (e.g., encoding categorical variables, normalizing numerical values).
+- Created visualizations to understand trends and relationships in the dataset.
+
+## Dependencies
+- Python 3.x
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Selenium (for web scraping, if applicable)
