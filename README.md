@@ -9,8 +9,8 @@ This project involves web scraping and data preparation. The goal is to extract 
 - Used automated scripts to extract structured data.
 - Saved data in a structured format (CSV, JSON, etc.).
 
-### 2. Data Exploration and Cleaning (Completed)
-- Explored the data using `head()` and `info()`.
+### 2. Data Exploration and Cleaning
+- Explored the data.
 - Checked the number of null values in each feature.
 - Identified and removed duplicate rows.
 - Dropped columns with excessive null values to improve data quality.
