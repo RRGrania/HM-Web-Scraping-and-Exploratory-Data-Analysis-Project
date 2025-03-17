@@ -17,7 +17,6 @@ This project involves web scraping and data preparation. The goal is to extract 
 
 ### 3. Data Preparation and Visualization
 - Processed data for better usability in analysis.
-- Applied transformations where necessary (e.g., encoding categorical variables, normalizing numerical values).
 - Created visualizations to understand trends and relationships in the dataset.
 
 ## Dependencies
