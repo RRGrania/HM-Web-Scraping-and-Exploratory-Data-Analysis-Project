@@ -1,7 +1,7 @@
 # CSV Files Merger
 
 ## Overview
-This folder contains a Jupyter Notebook for merging multiple CSV files from a specified folder into a single combined CSV file using Pandas.
+This folder contains a Jupyter Notebook for merging multiple CSV files from a specified folder into a single combined CSV file using Pandas. Additionally, it stores the resulting merged CSV file.
 
 ## How to Use
 1. Open the Jupyter Notebook (`data_combining.ipynb`).
