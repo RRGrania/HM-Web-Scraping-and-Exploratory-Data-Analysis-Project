@@ -26,7 +26,7 @@ This project focuses on web scraping, data cleaning, preprocessing, data combini
 ### 3️⃣ Data Cleaning & Preprocessing
 - **Description:** Cleans and preprocesses the raw scraped data.
 - **Steps:**
-  - Exploratory Data Analysis (EDA): Inspect data structure, formats, missing values, and duplicates.
+  - Data Exploration: Inspect data structure, formats, missing values, and duplicates.
   - Data Cleaning & Preprocessing: Remove unnecessary columns, standardize formats, convert data types, handle missing values, detect outliers, and prepare data for analysis.
 - **Output:** `Preprocessed_Data.csv` with structured and clean data.
 - **Dependencies:** Pandas, NumPy, AST.
