@@ -1,4 +1,4 @@
-# H&M Web Scraping, Data Processing, and Analysis Project
+# H&M Web Scraping and Exploratory Data Analysis Project
 
 ## Overview
 This project focuses on web scraping, data cleaning, preprocessing, data combining, and data visualization to extract insights from H&M's product listings. The workflow is divided into four main stages:
