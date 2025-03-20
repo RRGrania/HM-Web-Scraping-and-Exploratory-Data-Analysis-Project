@@ -35,8 +35,8 @@ This project focuses on web scraping, data cleaning, preprocessing, data combini
 ### 4️⃣ Data Visualization & Insights
 - **Description:** Analyzes and visualizes the cleaned and combined data.
 - **Steps:**
-  - **Univariate Analysis:** Examining individual variables (e.g., distribution of prices, frequency of categories).
-  - **Bivariate Analysis:** Investigating relationships between two variables (e.g., price vs. ratings, category vs. stock availability).
+  - **Univariate Analysis:** Examining individual variables.
+  - **Bivariate Analysis:** Investigating relationships between two variables.
   - **Multivariate Analysis:** Exploring interactions among multiple variables to uncover deeper insights.
 - **Output:** Graphs and charts in `Data_Visualization.ipynb`.
 - **Dependencies:** Pandas, NumPy, Matplotlib, Seaborn.
