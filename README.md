@@ -10,7 +10,7 @@ This project focuses on web scraping, data cleaning, preprocessing, data combini
 
 ### 1️⃣ Web Scraping
 - **Description:** Extracts product data from the H&M website using Selenium.
-- **Output:** Multiple category-based CSV files (e.g., `category1_data.csv`, `category2_data.csv`).
+- **Output:** Multiple category-based CSV files.
 - **Dependencies:** Selenium, Pandas, NumPy, Time.
 
 ### 2️⃣ Data Combining
@@ -58,9 +58,9 @@ This project focuses on web scraping, data cleaning, preprocessing, data combini
    ```bash
    pip install selenium pandas numpy matplotlib seaborn
    ```
-2. **Run the Web Scraping Notebook (`scraper.ipynb`) for each category**
-3. **Run the Data Cleaning Notebook (`data_cleaning.ipynb`)**
-4. **Run the Data Combining Notebook (`combine_csv.ipynb`)**
+2. **Run the Web Scraping Notebook (`Web_Scraping.ipynb`) for each category**
+3. **Run the Data Combining Notebook (`data_combining.ipynb`)**
+4. **Run the Data Cleaning Notebook (`Data Cleaning & Preprocessing.ipynb`)**
 5. **Run the Data Visualization Notebook (`Data_Visualization.ipynb`)**
 6. **Analyze insights from visualizations**
 
