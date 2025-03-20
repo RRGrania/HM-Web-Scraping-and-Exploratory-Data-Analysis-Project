@@ -1,7 +1,7 @@
 # H&M Web Scraping and Exploratory Data Analysis Project
 
 ## Overview
-This project focuses on web scraping, data cleaning, preprocessing, data combining, and data visualization to extract insights from H&M's product listings and identify the most significant factors affecting fashion product prices. The workflow is divided into four main stages:. The workflow is divided into four main stages:
+This project focuses on web scraping, data cleaning, preprocessing, data combining, and data visualization to extract insights from H&M's product listings and identify the most significant factors affecting fashion product prices. The workflow is divided into four main stages:
 1. **Web Scraping** - Extracting product data from the H&M website using Selenium.
 2. **Data Combining** - Merging multiple CSV files (from different categories) into a unified dataset.
 3. **Data Cleaning & Preprocessing** - Structuring, formatting, and preparing the scraped data for analysis.
